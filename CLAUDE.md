@@ -8,4 +8,6 @@ Personal automation and routines hub. Everything that needs to live in the cloud
 
 ## Routines
 
-- **Daily Logistics News** — Daily recap of logistics industry news, sent via email at 7:00 AM GMT+2
+| Routine | Schedule | Details |
+|---------|----------|---------|
+| [Daily Logistics News](routines/daily-logistics-news.md) | Daily 7:00 AM GMT+2 | Logistics industry news recap via email |
