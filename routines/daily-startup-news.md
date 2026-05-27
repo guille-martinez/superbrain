@@ -1,6 +1,6 @@
-# Daily Logistics News
+# Daily Startup News
 
-Daily recap of logistics industry news delivered via Slack.
+Daily recap of startup and venture capital news delivered via Slack.
 
 ## Configuration
 
@@ -13,9 +13,9 @@ Daily recap of logistics industry news delivered via Slack.
 
 ## What it does
 
-- Top 10 global logistics news stories, ordered by relevance and impact
-- Covers freight, shipping, supply chain, ports, last-mile, warehousing, fleet management, rail/air cargo, trade regulations
-- Geographic balance across Europe, Asia, Americas — with a slight European/Spanish lean
-- Explains industry-specific terms and concepts in plain English
+- Top 10 startup and VC news stories, ordered by relevance and impact
+- Covers fundraising, exits, product launches, pivots, market trends, and ecosystem developments
+- Geographic balance with a European/Spanish lean
+- Explains VC/startup-specific terms and concepts in plain English
 - Includes links and relevant images
 - Sends via Slack DM

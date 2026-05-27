@@ -1,6 +1,6 @@
-# Daily Logistics News
+# Daily Spain News
 
-Daily recap of logistics industry news delivered via Slack.
+Daily recap of the most important news in Spain delivered via Slack.
 
 ## Configuration
 
@@ -13,9 +13,8 @@ Daily recap of logistics industry news delivered via Slack.
 
 ## What it does
 
-- Top 10 global logistics news stories, ordered by relevance and impact
-- Covers freight, shipping, supply chain, ports, last-mile, warehousing, fleet management, rail/air cargo, trade regulations
-- Geographic balance across Europe, Asia, Americas — with a slight European/Spanish lean
-- Explains industry-specific terms and concepts in plain English
+- Top 10 news stories from Spain, ordered by relevance and impact
+- Covers politics, economy, business, society, and major events
+- Explains key concepts, institutions, and acronyms in plain English
 - Includes links and relevant images
 - Sends via Slack DM

@@ -1,6 +1,6 @@
-# Daily Logistics News
+# Daily Tech News
 
-Daily recap of logistics industry news delivered via Slack.
+Daily recap of technology news delivered via Slack.
 
 ## Configuration
 
@@ -13,9 +13,9 @@ Daily recap of logistics industry news delivered via Slack.
 
 ## What it does
 
-- Top 10 global logistics news stories, ordered by relevance and impact
-- Covers freight, shipping, supply chain, ports, last-mile, warehousing, fleet management, rail/air cargo, trade regulations
-- Geographic balance across Europe, Asia, Americas — with a slight European/Spanish lean
-- Explains industry-specific terms and concepts in plain English
+- Top 10 tech news stories, ordered by relevance and impact
+- Covers AI, software, hardware, cloud, cybersecurity, big tech, developer tools, and emerging tech
+- Geographic balance — global coverage, not US-dominated
+- Explains technical concepts and acronyms in plain English
 - Includes links and relevant images
 - Sends via Slack DM
