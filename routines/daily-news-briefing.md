@@ -1,6 +1,6 @@
-# Daily Spain News
+# Daily News Briefing
 
-Daily recap of the most important news in Spain delivered via Slack.
+Single daily briefing covering Logistics, Spain, Startups, and Tech — 3 stories per category, links only.
 
 ## Configuration
 
@@ -13,8 +13,8 @@ Daily recap of the most important news in Spain delivered via Slack.
 
 ## What it does
 
-- Top 10 news stories from Spain, ordered by relevance and impact
-- Covers politics, economy, business, society, and major events
-- Explains key concepts, institutions, and acronyms in plain English
-- Includes links and relevant images
-- Sends via Slack DM
+- 4 categories: Logistics, Spain, Startups, Tech
+- 3 most relevant stories per category (12 total)
+- Only news from the last 48 hours
+- Each story: headline + link (no summary)
+- Delivered via Slack DM
